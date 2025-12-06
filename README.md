@@ -1,7 +1,11 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&color=F778A1&center=true&vCenter=true&width=600&lines=Hi+I'm+Pragya+💗;Welcome+to+my+GitHub+Profile!;Aspiring+Software+Engineer+✨;AI+%7C+ML+%7C+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&duration=3000&color=F778A1&center=true&vCenter=true&width=650&lines=Hey+I'm+Pragya+💗" />
 </h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=26&duration=3500&color=9370DB&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%7C+ML+Enthusiast;Full+Stack+Developer" />
+</h2>
 
 ---
 
@@ -15,7 +19,6 @@
 📚 Always excited to learn new technologies!
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -34,14 +37,15 @@
   <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
 </p>
 
-### **Python Libraries / ML Tools**
+### 📦 **Python Libraries / ML Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="60"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="60"/> <!-- Optional -->
+  <img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
   <img src="https://skillicons.dev/icons?i=numpy" width="60"/>
   <img src="https://skillicons.dev/icons?i=pandas" width="60"/>
   <img src="https://skillicons.dev/icons?i=matplotlib" width="60"/>
+  <img src="https://skillicons.dev/icons?i=colab" width="60"/>
 </p>
 
 ### ⚙️ **Tools & Platforms**
@@ -49,7 +53,6 @@
   <img src="https://skillicons.dev/icons?i=git" width="60"/>
   <img src="https://skillicons.dev/icons?i=github" width="60"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
-  <img src="https://skillicons.dev/icons?i=colab" width="60"/>
 </p>
 
 ---
@@ -69,31 +72,18 @@
 ---
 
 ## 🌐 Connect With Me  
-<p align="center">
-
-<!-- Gmail -->
-<a href="mailto:pragyasrivastava2765@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/pragya-srivastava-479b31329/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/pragya-2765">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<!-- LeetCode -->
-<a href="https://leetcode.com/u/Pragya_95/">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
-</a>
-
-</p>
+<div align="center">
+  <a href="mailto:pragyasrivastava2765@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pragya-srivastava-479b31329/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/pragya-2765"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Pragya_95/"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
+</div>
 
 ---
 
 ## 💖 Thank You!
-⭐ *If you like my work, don’t forget to star my repositories!*  
+⭐ *If you like my work, don’t forget to star my repositories!*
+
