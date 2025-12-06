@@ -1,32 +1,31 @@
-<!-- Clean Premium Header -->
+<!-- VIBRANT Glowing Heading -->
 <h1 align="center">
   <span style="
-    color:#4DA8FF;
-    text-shadow: 0 0 12px #4DA8FF, 0 0 18px #1E90FF;">
-    Hi, I'm Pragya 👋
+    color:#00C8FF;
+    text-shadow: 0 0 15px #00C8FF, 0 0 30px #00A4CC, 0 0 45px #0088AA;">
+    👋 Hey, I'm Pragya
   </span>
 </h1>
 
-<!-- Elegant Typing Animation -->
+<!-- Colorful Smooth Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=5000&pause=1000&color=4DA8FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+%7C+Java+Programmer;Tech+Explorer+%7C+Fast+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=4200&pause=900&color=00C8FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Passionate+Problem+Solver;Building+Smart+%26+Modern+Tech;Always+Evolving+%26+Learning">
 </p>
 
 ---
 
-## 💫 About Me  
-I'm a **Computer Science student** passionate about building intelligent, useful, and beautiful tech.
-
-✨ I work with **AI, Machine Learning, Deep Learning**  
-✨ I build ML apps using **TensorFlow, Scikit-learn & Streamlit**  
-✨ I also enjoy **frontend and full-stack web development**  
-✨ Strong with **Python, Java, SQL, MongoDB, DSA**  
+## 🔥 About Me  
+✨ Passionate **CS student** exploring intelligent & modern technologies  
+✨ Working in **AI, ML, Deep Learning, and Web Development**  
+✨ Skilled in **Python, Java, SQL, MongoDB, DSA**  
+✨ Love building real-world ML apps with **TensorFlow, Scikit-learn, Streamlit**  
+✨ Creative mindset + Strong problem-solving abilities  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### **Programming Languages**
+### 🎯 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java" width="55"/>
   <img src="https://skillicons.dev/icons?i=python" width="55"/>
@@ -35,13 +34,13 @@ I'm a **Computer Science student** passionate about building intelligent, useful
   <img src="https://skillicons.dev/icons?i=css" width="55"/>
 </p>
 
-### **Databases**
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
 </p>
 
-### **Machine Learning / Python Libraries**
+### 🤖 ML / Python Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
@@ -50,7 +49,7 @@ I'm a **Computer Science student** passionate about building intelligent, useful
   <img src="https://skillicons.dev/icons?i=matplotlib" width="55"/>
 </p>
 
-### **Tools**
+### 🛠 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="55"/>
   <img src="https://skillicons.dev/icons?i=github" width="55"/>
@@ -60,25 +59,28 @@ I'm a **Computer Science student** passionate about building intelligent, useful
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects  
+*(exact same beautiful style as the FIRST README — vibrant buttons + clean layout)*
 
-### 🦋 **Insect Species Identifier (Deep Learning)**
-<p>
+### 🦋 **Insect Species Identifier (Deep Learning Model)**  
+<p align="left">
   <a href="https://insect-classifier-app-2nsvnfjh55lxanxp4gafak.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-3478F6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LIVE-DEMO-00C8FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Code-1F4AC9?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIEW-CODE-0077CC?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-### 💼 **Employee Salary Predictor (ML Model)**
-<p>
+---
+
+### 💼 **Employee Salary Predictor (ML Model)**  
+<p align="left">
   <a href="https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-3478F6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LIVE-DEMO-00C8FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Code-1F4AC9?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIEW-CODE-0077CC?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -102,4 +104,3 @@ I'm a **Computer Science student** passionate about building intelligent, useful
   <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
 </a>
 </p>
-
