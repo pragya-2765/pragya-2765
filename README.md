@@ -16,32 +16,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-
-<!-- Gmail -->
-<a href="mailto:pragyasrivastava2765@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/pragya-srivastava-479b31329/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/pragya-2765">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<!-- LeetCode -->
-<a href="https://leetcode.com/u/Pragya_95/">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
-</a>
-
-</p>
-
----
 
 ## 🎨 Tech Stack
 
@@ -81,6 +55,33 @@
 <a href="https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-9370DB?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+
+<!-- Gmail -->
+<a href="mailto:pragyasrivastava2765@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/pragya-srivastava-479b31329/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/pragya-2765">
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/Pragya_95/">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
+</a>
+
+</p>
 
 ---
 
