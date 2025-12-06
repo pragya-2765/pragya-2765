@@ -1,30 +1,31 @@
-<!-- DYNAMIC GLOWING HEADING -->
+<!-- PREMIUM DYNAMIC GLOWING HEADING -->
 <h1 align="center">
   <span style="
-    background: linear-gradient(90deg, #FF6FD8, #6A5ACD, #00C8FF);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 55px;
+    background: linear-gradient(90deg, #FF6FD8, #6A5ACD, #00D4FF, #1E90FF);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 48px;
-    font-weight: 800;
-    text-shadow: 0px 0px 25px rgba(255,111,216,0.6);
+    text-shadow: 0px 0px 20px rgba(255,111,216,0.7),
+                 0px 0px 30px rgba(106,90,205,0.6),
+                 0px 0px 40px rgba(0,212,255,0.5);
   ">
     ✨ Hey, I'm Pragya ✨
   </span>
 </h1>
 
-<!-- SMOOTH COLOURED ANIMATION LINE -->
+<!-- STYLISH COLORFUL ANIMATED SUBTEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=28&duration=4200&pause=1000&color=FF6FD8&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Creative+Problem+Solver;Building+Smart+%26+Modern+Projects;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&duration=4500&pause=1000&color=FF6FD8&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Creative+Problem+Solver;Building+Modern+%26+Smart+Projects;Aesthetic+Coder+%7C+Tech+Explorer" />
 </p>
 
 ---
 
 ## 🌟 About Me  
-<p style="color:#DDA0FF; font-size:18px">
 I’m a passionate **Computer Science student** who loves creating intelligent and beautiful tech.  
 I work with **AI, ML, Deep Learning, and Full Stack Development**.  
 I enjoy mixing creativity + logic to build projects that look good and work smart.
-</p>
 
 ---
 
@@ -49,7 +50,7 @@ I enjoy mixing creativity + logic to build projects that look good and work smar
   <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
   <img src="https://skillicons.dev/icons?i=numpy" width="55"/>
-  <img src="httpsillicons.dev/icons?i=pandas" width="55"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="55"/>
   <img src="https://skillicons.dev/icons?i=matplotlib" width="55"/>
 </p>
 
@@ -68,7 +69,7 @@ I enjoy mixing creativity + logic to build projects that look good and work smar
 
 ---
 
-## 💌 Connect With Me  
+## 📬 Connect With Me  
 <p>
 <a href="mailto:pragyasrivastava2765@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
@@ -86,3 +87,8 @@ I enjoy mixing creativity + logic to build projects that look good and work smar
   <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
 </a>
 </p>
+
+---
+
+## 💖 Thank You!  
+⭐ *If you like my work, don’t forget to star my repositories!*  
