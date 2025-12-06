@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=26&duration=3500&color=9370DB&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%7C+ML+Enthusiast;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto Slab&size=26&duration=3500&color=9370DB&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%7C+ML+Enthusiast;Full+Stack+Developer" />
 </h2>
 
 ---
