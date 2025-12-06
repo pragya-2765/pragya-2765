@@ -1,50 +1,106 @@
-🌟 Hi, I'm Pragya Srivastava!
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&color=F778A1&center=true&vCenter=true&width=600&lines=Hi+I'm+Pragya+💗;Welcome+to+my+GitHub+Profile!;Aspiring+Software+Engineer+✨;AI+%7C+ML+%7C+Full+Stack+Developer" />
+</h1>
 
-🎓 B.Tech CSE Student | AI/ML & Data Science Enthusiast
-💡 Passionate about solving real-world problems using Machine Learning, Deep Learning, and Data Analytics.
-🚀 Always exploring, always building, always learning.
+---
 
-👩‍💻 About Me
+## 🌸 About Me  
+💫 <span style="color:#FF69B4">Dynamic and enthusiastic Computer Science student</span> passionate about  
+**AI, Machine Learning, Web Development, and problem-solving**.  
+<br>
+🌱 Currently learning **Full Stack + Advanced ML**   
+🎯 Love building **beautiful UI & practical ML projects**  
+💬 Ask me about **Java, Python, DSA, SQL, MongoDB, TensorFlow**  
+📚 Always excited to learn new technologies!
 
-I’m a dynamic and enthusiastic Computer Science student with a strong foundation in Data Structures & Algorithms, hands-on experience in AI/ML, and growing expertise in Python and Java.
+---
 
-My journey includes building end-to-end ML solutions, contributing to tech communities, and constantly pushing myself through projects, internships, and continuous learning.
+## 🌐 Connect With Me  
+<p align="center">
 
-🔧 Tech Stack
+<!-- Gmail -->
+<a href="mailto:pragyasrivastava2765@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
 
-Languages: Java | Python
-Web: HTML • CSS • JavaScript
-ML/DL: TensorFlow • Keras • Scikit-learn • Pandas • NumPy • Matplotlib
-Databases: SQL | MongoDB
-Tools: Git • GitHub • VS Code • Google Colab
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/pragya-srivastava-479b31329/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
 
-🚀 Featured Projects
-🐞 Insect Species Identifier
+<!-- GitHub -->
+<a href="https://github.com/pragya-2765">
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
-Deep learning classifier built using MobileNetV2
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/Pragya_95/">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
+</a>
 
-Streamlit web app for real-time image prediction
-🔗 Live App: https://insect-classifier-app-2nsvnfjh55lxanxp4gafak.streamlit.app/
+</p>
 
-👔 Employee Salary Predictor
+---
 
-ML model to classify salary brackets using demographic features
+## 🎨 Tech Stack
 
-Deployed as an interactive Streamlit app
-🔗 Live App: https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/
+### 💻 **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java" width="60"/>
+  <img src="https://skillicons.dev/icons?i=python" width="60"/>
+  <img src="https://skillicons.dev/icons?i=html" width="60"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="60"/>
+</p>
 
-🏆 Achievements
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+</p>
 
-• Management Team Member at Binary Brains Tech Community
+### ⚙️ **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="60"/>
+  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+  <img src="https://skillicons.dev/icons?i=colab" width="60"/>
+</p>
 
-• Earned IBM Artificial Intelligence Fundamentals Certificate
+---
 
-• Actively involved in community events, leadership, and tech initiatives
+## 🚀 My Projects
 
-🌱 Currently Learning
+### 🦋 **Insect Species Identifier (Deep Learning)**
+<a href="https://insect-classifier-app-2nsvnfjh55lxanxp4gafak.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
 
-• Advanced Deep Learning
+### 💼 **Employee Salary Predictor (ML Model)**
+<a href="https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-9370DB?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
 
-• Model Deployment
+---
 
-• Data Engineering basics
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pragya-2765&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=pragya-2765&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+</p>
+
+---
+
+## ✨ Fun Animated Divider
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
+---
+
+## 💖 Thank You!
+⭐ *If you like my work, don’t forget to star my repositories!*  
+
