@@ -14,8 +14,8 @@
 **AI, Machine Learning, Web Development, and problem-solving**.  
 <br>
 🌱 Currently learning **Full Stack + Advanced ML**   
-🎯 Love building **beautiful UI & practical ML projects**  
-💬 Ask me about **Java, Python, DSA, SQL, MongoDB, TensorFlow**  
+🎯 Driven to create real-world **machine learning solutions**
+💬 Ask me about **Java, Python, DSA, SQL, TensorFlow**  
 📚 Always excited to learn new technologies!
 
 ---
