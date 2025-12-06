@@ -1,106 +1,91 @@
 <!-- Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&color=F778A1&center=true&vCenter=true&width=600&lines=Hi+I'm+Pragya+💗;Welcome+to+my+GitHub+Profile!;Aspiring+Software+Engineer+✨;AI+%7C+ML+%7C+Full+Stack+Developer" />
-</h1>
+<h1 align="center">Hi, I'm Pragya 👋</h1>
 
----
-
-## 🌸 About Me  
-💫 <span style="color:#FF69B4">Dynamic and enthusiastic Computer Science student</span> passionate about  
-**AI, Machine Learning, Web Development, and problem-solving**.  
-<br>
-🌱 Currently learning **Full Stack + Advanced ML**   
-🎯 Love building **beautiful UI & practical ML projects**  
-💬 Ask me about **Java, Python, DSA, SQL, MongoDB, TensorFlow**  
-📚 Always excited to learn new technologies!
-
----
-
-## 🌐 Connect With Me  
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&duration=3500&pause=800&color=4E8DF6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Passionate+Learner" />
+</p>
 
-<!-- Gmail -->
+---
+
+## 🧑‍💻 About Me  
+- 🎓 B.Tech CSE student  
+- 🤖 Interested in **AI, Machine Learning, and Full Stack Development**  
+- 💡 Strong understanding of **Java, Python, DSA, SQL, MongoDB**  
+- 🎯 Building practical ML projects using **TensorFlow, Scikit-learn**  
+- 🌱 Currently improving **Web Development + ML skills**  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+</p>
+
+### **Python Libraries / ML Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> <!-- Optional -->
+  <img src="https://skillicons.dev/icons?i=numpy" width="50"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="50"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="50"/>
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=colab" width="50"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🦋 Insect Species Identifier  
+🔗 **Live:** https://insect-classifier-app-2nsvnfjh55lxanxp4gafak.streamlit.app/  
+🔧 *TensorFlow, Keras, Streamlit, NumPy, Matplotlib*
+
+---
+
+### 💼 Employee Salary Predictor  
+🔗 **Live:** https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/  
+🔧 *Scikit-learn, Pandas, Streamlit*
+
+---
+
+## 📬 Connect With Me  
+<p align="left">
+
 <a href="mailto:pragyasrivastava2765@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/pragya-srivastava-479b31329/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<!-- GitHub -->
 <a href="https://github.com/pragya-2765">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<!-- LeetCode -->
 <a href="https://leetcode.com/u/Pragya_95/">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
+  <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
 </a>
 
 </p>
 
 ---
-
-## 🎨 Tech Stack
-
-### 💻 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java" width="60"/>
-  <img src="https://skillicons.dev/icons?i=python" width="60"/>
-  <img src="https://skillicons.dev/icons?i=html" width="60"/>
-  <img src="https://skillicons.dev/icons?i=css" width="60"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="60"/>
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-</p>
-
-### ⚙️ **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="60"/>
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
-  <img src="https://skillicons.dev/icons?i=colab" width="60"/>
-</p>
-
----
-
-## 🚀 My Projects
-
-### 🦋 **Insect Species Identifier (Deep Learning)**
-<a href="https://insect-classifier-app-2nsvnfjh55lxanxp4gafak.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-
-### 💼 **Employee Salary Predictor (ML Model)**
-<a href="https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-9370DB?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pragya-2765&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=pragya-2765&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
-</p>
-
----
-
-## ✨ Fun Animated Divider
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
----
-
-## 💖 Thank You!
-⭐ *If you like my work, don’t forget to star my repositories!*  
-
