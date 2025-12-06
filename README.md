@@ -1,18 +1,24 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Pragya 👋</h1>
+<!-- Glowing Heading -->
+<h1 align="center" style="
+    color:#7CB9FF;
+    text-shadow: 0 0 12px #7CB9FF, 0 0 24px #5A8FD8;
+    font-size: 40px;">
+  Hi, I'm Pragya 👋
+</h1>
 
+<!-- Smooth Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&duration=3500&pause=800&color=4E8DF6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Passionate+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4200&pause=900&color=7CB9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+%7C+Java+Programmer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 B.Tech CSE student  
-- 🤖 Interested in **AI, Machine Learning, and Full Stack Development**  
-- 💡 Strong understanding of **Java, Python, DSA, SQL, MongoDB**  
-- 🎯 Building practical ML projects using **TensorFlow, Scikit-learn**  
-- 🌱 Currently improving **Web Development + ML skills**  
+## ✨ About Me  
+- 🎓 B.Tech Computer Science student  
+- 🤖 Passionate about **AI, Machine Learning, Deep Learning**  
+- 💻 Building projects using **TensorFlow, Scikit-learn, Streamlit**  
+- 🌐 Learning Full Stack + ML Deployment  
+- 🧠 Strong foundation in **Python, Java, SQL, DSA**  
 
 ---
 
@@ -33,11 +39,10 @@
   <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
 </p>
 
-### **Python Libraries / ML Tools**
+### **Python ML Libraries**
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50"/> <!-- Optional -->
   <img src="https://skillicons.dev/icons?i=numpy" width="50"/>
   <img src="https://skillicons.dev/icons?i=pandas" width="50"/>
   <img src="https://skillicons.dev/icons?i=matplotlib" width="50"/>
@@ -55,21 +60,32 @@
 
 ## 🚀 Projects
 
-### 🦋 Insect Species Identifier  
-🔗 **Live:** https://insect-classifier-app-2nsvnfjh55lxanxp4gafak.streamlit.app/  
-🔧 *TensorFlow, Keras, Streamlit, NumPy, Matplotlib*
+### 🦋 **Insect Species Identifier (Deep Learning Model)**
+<p>
+  <a href="https://insect-classifier-app-2nsvnfjh55lxanxp4gafak.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-1E90FF?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code%20Coming%20Soon-4169E1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💼 Employee Salary Predictor  
-🔗 **Live:** https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/  
-🔧 *Scikit-learn, Pandas, Streamlit*
+### 💼 **Employee Salary Predictor**
+<p>
+  <a href="https://employee-salary-prediction-iajzt4i93mk7jse757xhcv.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-1E90FF?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code%20Coming%20Soon-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📬 Connect With Me  
-<p align="left">
-
+<p>
 <a href="mailto:pragyasrivastava2765@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
@@ -85,7 +101,5 @@
 <a href="https://leetcode.com/u/Pragya_95/">
   <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
 </a>
-
 </p>
 
----
