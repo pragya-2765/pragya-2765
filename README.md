@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&duration=3000&color=#FF69B4&center=true&vCenter=true&width=650&lines=Hey+I'm+Pragya+👩🏻‍💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&duration=3000&color=#FF94B6&center=true&vCenter=true&width=650&lines=Hey+I'm+Pragya+👩🏻‍💻" />
 </h1>
 
 <h2 align="center">
