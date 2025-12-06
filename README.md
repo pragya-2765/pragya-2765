@@ -17,7 +17,7 @@
 ---
 
 
-## 🎨 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 **Programming Languages**
 <p>
@@ -32,6 +32,16 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+</p>
+
+### **Python Libraries / ML Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="60"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="60"/> <!-- Optional -->
+  <img src="https://skillicons.dev/icons?i=numpy" width="60"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="60"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="60"/>
 </p>
 
 ### ⚙️ **Tools & Platforms**
