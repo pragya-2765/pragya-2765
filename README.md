@@ -15,7 +15,6 @@
 <br>
 🌱 Currently learning **Full Stack + Advanced ML**   
 🎯 Driven to create real-world **machine learning solutions**
-💬 Ask me about **Java, Python, DSA, SQL, TensorFlow**  
 📚 Always excited to learn new technologies!
 
 ---
